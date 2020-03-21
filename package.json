@@ -1,8 +1,8 @@
 {
   "name": "vue-h5-pro",
   "author": {
-    "name": "nowthen",
-    "email": "rnlvwyx@gmail.com"
+    "name": "andy",
+    "email": "178224406@qq.com"
   },
   "description": "基于@vue/CLI3构建的移动端h5项目模板",
   "keywords": [
@@ -10,9 +10,7 @@
     "vue-cli",
     "@vue/CLI3",
     "vue",
-    "webpack4",
-    "vue-h5-pro",
-    "nowthen"
+    "webpack4"
   ],
   "version": "0.1.0",
   "private": true,
