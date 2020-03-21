@@ -1,7 +1,0 @@
-$fontSize: 46.875; // 750px 宽度
-
-// 计算宽度
-@function rem($n) {
-    @return ($n / $fontSize) * 1rem;
-}
-  
