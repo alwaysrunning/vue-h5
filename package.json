@@ -1,10 +1,10 @@
 {
-  "name": "vue-h5-pro",
+  "name": "{{projectName}}",
   "author": {
     "name": "andy",
     "email": "178224406@qq.com"
   },
-  "description": "基于@vue/CLI3构建的移动端h5项目模板",
+  "description": "{{projectVersion}}",
   "keywords": [
     "vue-h5",
     "vue-cli",
@@ -12,7 +12,7 @@
     "vue",
     "webpack4"
   ],
-  "version": "0.1.0",
+  "version": "{{projectVersion}}",
   "private": true,
   "scripts": {
     "serve": "vue-cli-service serve",
