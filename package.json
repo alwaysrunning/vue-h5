@@ -1,5 +1,5 @@
 {
-  "name": "test",
+  "name": "{{projectName}}",
   "author": {
     "name": "andy",
     "email": "178224406@qq.com"
