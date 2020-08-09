@@ -1140,7 +1140,6 @@ export function insertAtCaret(dom, str) {
 /**
  * 获取移动设备信息，如是否是iOS，android等
  *
- * @returns {{}}
  * @example
  *
  * getDevice();
@@ -1196,7 +1195,6 @@ export function getDevice() {
 /**
  * 获取浏览器的类型和版本号
  *
- * @returns {{type: string, version: string}}
  * @example
  *
  * getBrowser();
