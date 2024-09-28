@@ -4,7 +4,7 @@
     "name": "andy",
     "email": "178224406@qq.com"
   },
-  "description": "{{projectVersion}}",
+  "description": "{{projectDescription}}",
   "keywords": [
     "vue-h5",
     "vue-cli",
